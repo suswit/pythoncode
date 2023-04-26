@@ -44,14 +44,23 @@
 # # using the lambda function
 # print("Using lambda function, cube:",lambda_cube(5))
 
-def add(y):
-    return y+y+y
+# def add(y):
+#     return y+y+y
 
-lambda_cube = lambda y: y+y+y
+# lambda_cube = lambda y: y+y+y
 
-# using function defined
-# using def keyword
-print ("Using function defined with 'def' keyword,cube:",add(5))
+# # using function defined
+# # using def keyword
+# print ("Using function defined with 'def' keyword,cube:",add(5))
 
-# using the lambda function
-print("Using lambda function, cube:",lambda_cube(5))
+# # using the lambda function
+# print("Using lambda function, cube:",lambda_cube(5))
+
+mytuple = ("alpha","beta","gamma")
+myit = iter(mytuple)
+
+print(next(myit))
+print(next(myit))
+print(next(myit))
+print(next(myit))
+print(next(myit))
