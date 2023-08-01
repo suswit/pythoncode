@@ -1,0 +1,21 @@
+3. 10 Applications of NLP
+
+1. Sentiment Analysis: NLP is used to determine the sentiment or emotion expressed in textual data, such as social media posts, customer reviews, or survey responses. This is valuable for understanding public opinion, customer feedback, and brand perception.
+
+2. Machine Translation: NLP is employed to automatically translate text from one language to another, enabling cross-lingual communication and breaking language barriers.
+
+3. Named Entity Recognition (NER): NLP techniques are applied to identify and classify entities, such as names of people, organizations, locations, dates, and more, within a text. This is useful for information extraction and knowledge graph construction.
+
+4. Text Summarization: NLP models can generate concise and coherent summaries of longer texts, making it easier to extract the main points from lengthy documents.
+
+5. Question-Answering Systems: NLP powers question-answering systems like chatbots and virtual assistants that can understand user questions and provide relevant responses.
+
+6. Information Retrieval: NLP is used to improve search engines by understanding the context of search queries and delivering more relevant results.
+
+7. Text Classification: NLP is applied to classify text documents into predefined categories, such as spam detection, sentiment analysis, or topic classification.
+
+8. Language Generation: NLP models, like GPT (Generative Pre-trained Transformer), can generate human-like text, including creative writing, storytelling, and automated content generation.
+
+9. Speech Recognition: NLP is used in speech recognition systems to convert spoken language into text, enabling voice assistants, transcription services, and voice-controlled applications.
+
+10. Intent Recognition: NLP is employed to understand user intent in natural language queries, helping in tasks like virtual assistants, customer support chatbots, and voice-activated devices.
