@@ -1,0 +1,23 @@
+4. 10 applications of open CV
+
+OpenCV (Open Source Computer Vision Library) is a powerful open-source computer vision and machine learning software library. It provides a wide range of tools and functions that can be applied to various real-world applications. Here are ten applications of OpenCV:
+
+1. Image and Video Processing: OpenCV is commonly used for image and video processing tasks, including reading, writing, resizing, filtering, and transforming images and videos.
+
+2. Object Detection: OpenCV offers pre-trained models and tools for object detection, allowing you to identify and locate objects within images or videos.
+
+3. Facial Recognition: OpenCV can be utilized for facial recognition applications, recognizing and verifying faces in images or videos.
+
+4. Optical Character Recognition (OCR): OpenCV can be integrated with OCR engines to extract text from images or scanned documents.
+
+5. Augmented Reality (AR): OpenCV can help in developing AR applications by overlaying virtual objects on real-world scenes captured by a camera.
+
+6. Camera Calibration: OpenCV can be used to calibrate cameras, which is essential for computer vision tasks like 3D reconstruction and camera pose estimation.
+
+7. Gesture Recognition: OpenCV can be applied to recognize and interpret hand or body gestures captured by cameras for various interactive applications.
+
+8. Medical Image Analysis: OpenCV can assist in processing and analyzing medical images, including X-rays, MRIs, and CT scans, aiding in diagnosis and treatment.
+
+9. Autonomous Vehicles: OpenCV can be part of the computer vision systems used in autonomous vehicles for tasks like lane detection, traffic sign recognition, and obstacle avoidance.
+
+10. Robotics: OpenCV can be used in robotics to enable robots to perceive their surroundings, detect objects, and navigate the environment.
