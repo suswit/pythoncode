@@ -1,0 +1,24 @@
+2. 10 Realtime applications of Deep Learning
+
+
+Deep learning, which includes techniques like Convolutional Neural Networks (CNNs), Recurrent Neural Networks (RNNs), and Transformers, has a wide range of real-time applications. Here are ten such applications:
+
+1. Speech Recognition: Real-time speech recognition systems use deep learning models like RNNs or Transformer-based architectures to convert spoken language into text. This application is widely used in voice assistants and transcription services.
+
+2. Natural Language Processing (NLP): Deep learning models, particularly Transformers like BERT and GPT, have revolutionized NLP tasks such as text generation, machine translation, sentiment analysis, and question-answering systems.
+
+3. Real-time Object Detection: Deep learning models like YOLO (You Only Look Once) and SSD (Single Shot Multibox Detector) enable real-time object detection and tracking in images and videos. This is essential in applications like autonomous vehicles, surveillance, and robotics.
+
+4. Autonomous Vehicles: Deep learning plays a pivotal role in autonomous vehicles, enabling real-time perception and decision-making tasks like object detection, lane detection, and path planning.
+
+5. Real-time Anomaly Detection: Deep learning models are used to detect anomalies in real-time data streams, which is crucial in various industries, including finance, healthcare, and cybersecurity.
+
+6. Human Pose Estimation: Deep learning models are applied to estimate the human body's pose from images and videos, enabling real-time applications in augmented reality, gaming, and fitness tracking.
+
+7. Facial Recognition: Deep learning models are utilized for real-time facial recognition tasks, including identity verification, access control, and user authentication.
+
+8. Gesture Recognition: Deep learning models can recognize and interpret gestures from image or sensor data, making them useful for real-time interactions with devices and virtual environments.
+
+9. Real-time Video Analytics: Deep learning models are employed in video analytics to analyze and understand real-time video feeds, such as detecting activities, recognizing objects, and identifying events of interest.
+
+10. Healthcare: Deep learning has significant applications in real-time healthcare tasks, such as disease diagnosis, medical image analysis, drug discovery, and personalized treatment recommendations.
